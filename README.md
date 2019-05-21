@@ -1,6 +1,7 @@
 # Relaxation Runge-Kutta Methods for inner-product norms
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3078396.svg)](https://doi.org/10.5281/zenodo.3078396)
 
 Relaxation Runge-Kutta methods are modifications of Runge-Kutta methods that
 enforce conservation, dissipation, or other solution properties with respect
