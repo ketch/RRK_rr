@@ -23,14 +23,16 @@ They are developed and studied in the articles
   note={in preparation}
 }
 
-@article{ranocha2019relaxation,
+@online{ranocha2019relaxation,
   title={Relaxation {R}unge--{K}utta Methods: Fully-Discrete Explicit
          Entropy-Stable Schemes for the {E}uler and {N}avier--{S}tokes Equations},
   author={Ranocha, Hendrik and Sayyari, Mohammed and Dalcin, Lisandro and
           Parsani, Matteo and Ketcheson, David I.},
   year={2019},
   month={05},
-  note={in preparation}
+  eprint={1905.09129},
+  eprinttype={arxiv},
+  eprintclass={math.NA}
 }
 ```
 Implementations of relaxation Ruge-Kutta methods and numerical experiments
